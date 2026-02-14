@@ -2,6 +2,9 @@
 
 A clean, chat-style UI built with React and Vite. It provides a multi-thread chat experience (new chat, thread history, delete) and a polished message view with Markdown + syntax highlighting.
 
+![CodeGPT Frontend](https://res.cloudinary.com/dcjobwnp5/image/upload/v1771085169/image_12_pi1c4c.png)
+
+
 ## What this project does
 
 - Creates and manages chat threads.
